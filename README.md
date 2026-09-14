@@ -8,7 +8,7 @@ Currently building indie software products, mostly around developer tooling and 
 
 ### Building
 
-* [Developer Tools Pro](https://devtpro.app) — 120+ developer utilities for Windows, macOS and iPad
+* [Developer Tools Pro](https://devtpro.app) - 120+ developer utilities for Windows, macOS and iPad
 * Native Windows apps with **C# / .NET / WinUI 3**
 * Developer-focused tools and AI-assisted workflows
 
